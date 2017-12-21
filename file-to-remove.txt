@@ -1,0 +1,4 @@
+This is a file
+that will be
+removed in the
+next commit.
