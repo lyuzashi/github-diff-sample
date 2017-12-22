@@ -7,6 +7,6 @@ This repository is a quick test for the following functions of [github-diff](htt
 * Modifying files
 * Renaming files
 
-This file was modified.
+This file was modified again.
 
 binary-data.zip was added.
